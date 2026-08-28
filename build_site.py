@@ -10,7 +10,7 @@ import urllib.parse
 from datetime import datetime
 
 VIDEO_EXT = ".mp4"
-THUMB_DIR = ".thumbs"
+THUMB_DIR = "thumbs"
 
 
 def video_info(path):
